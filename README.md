@@ -1,3 +1,6 @@
+# Self-Organizing Fuzzy Neural Network (SOFNN)
+This version allows training a SOFNN, and counting rules and membership functions.
+
 ### Installation 
 
 To install requirements in windows cmd:
